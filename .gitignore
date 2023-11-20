@@ -1,0 +1,11 @@
+/express
+/node_modules
+/dist
+
+/server/node_modules
+/server/dist
+
+/front/node_modules
+/front/dist
+
+.env
