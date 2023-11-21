@@ -5,11 +5,14 @@
 > npm i
 
 ### Запустить `server`:
+#### Указать .env переменные `BP_LOGIN` и `BP_PASSWORD`
+
 > npm run start 
 > 
 или
 > 
 > npm run start:dev
+
 
 ### Запустить `front`:
 > npm run serve
